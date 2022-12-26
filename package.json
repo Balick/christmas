@@ -1,0 +1,14 @@
+{
+  "name": "christmas-happy_new_year-wish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html --lazy --open"
+  },
+  "author": "Théo Balick",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
