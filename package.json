@@ -2,7 +2,7 @@
   "name": "christmas-happy_new_year-wish",
   "version": "1.0.0",
   "description": "Wish for christmas and Happy new year designed with HTML, CSS and vanilla JavaScript only.",
-  "main": "index.html",
+  "main": "src/app.js",
   "scripts": {
     "start": "npx parcel index.html --lazy --open",
     "build": "npx parcel build index.html"
